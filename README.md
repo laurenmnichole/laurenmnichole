@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @laurenmnichole
+- 👀 I’m interested in building my coding skills and sharing projects I work on!
+- 🌱 I’m currently learning how to do front end development using HTML and JavaScript, but I look forward to expanding my skillset!
+- 📫 How to reach me: Feel free to email me at laurenlnmorrison@gmail.com
